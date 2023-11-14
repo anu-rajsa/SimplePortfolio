@@ -1,7 +1,23 @@
 body{
     margin: 0;
-}
-.star{
-    color:white;
+    padding: 0;
     background-color: black;
+   
 }
+.portfolio{
+    display: flex;
+    color: white;
+
+
+}
+.navbar{
+    padding: 0;
+    margin: 0;
+
+}
+h2{
+    text-align: right;
+    justify-content: space-evenly;
+}
+   
+
